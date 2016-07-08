@@ -1,0 +1,16 @@
+{
+  "name": "neural-synthesis",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-csv": "^0.2.7",
+    "synaptic": "^1.0.5",
+    "waveheader": "0.0.2"
+  }
+}
